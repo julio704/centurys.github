@@ -123,3 +123,8 @@ ul{
 .inicio1{
     position: absolute; top: 12px; right: 60px;
 }
+#olvi{
+    position: absolute; top: 520px; left: 800px;
+    width: 1880px;
+    font-family: Arial, Helvetica, sans-serif;
+}
