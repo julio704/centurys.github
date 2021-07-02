@@ -105,10 +105,12 @@ ul{
     position: absolute; top: 750px;
     width: 1880px;
     font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 .copyo{
     position: absolute; top: 930px; left: 100px;
     font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 .lupa{
     position: absolute; top: 40px; left: 1300px;
@@ -125,6 +127,6 @@ ul{
 }
 #olvi{
     position: absolute; top: 520px; left: 800px;
-    width: 1880px;
+    width: 880px;
     font-family: Arial, Helvetica, sans-serif;
 }
